@@ -1,9 +1,6 @@
 import torch
 import numpy as np
-<<<<<<< HEAD
-=======
 
->>>>>>> f16047b (first commit)
 from torch.utils.data.dataloader import default_collate
 
 class Loader:
