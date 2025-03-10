@@ -1,6 +1,5 @@
-# VMST-Net
+# Voxel-based Multi-scale Transformer Network for Event Stream Processing. TCSVT, 2023.
 
-This repository contains the implemtation code associated with Voxel-based Multi-scale Transformer Network for Event Stream Processing.
 
 ## Requirements
      Python 3.7 
