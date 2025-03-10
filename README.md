@@ -1,4 +1,4 @@
-# Voxel-based Multi-scale Transformer Network for Event Stream Processing. TCSVT, 2023.
+# Voxel-based Multi-scale Transformer Network for Event Stream Processing. 
 
 
 ## Requirements
@@ -33,3 +33,13 @@ Take N-Caltech101 as an example:
 
 
 ## Citation
+     @article{liu2023voxel,
+       title={Voxel-based multi-scale transformer network for event stream processing},
+       author={Liu, Daikun and Wang, Teng and Sun, Changyin},
+       journal={IEEE Transactions on Circuits and Systems for Video Technology},
+       volume={34},
+       number={4},
+       pages={2112--2124},
+       year={2023},
+       publisher={IEEE}
+     }
